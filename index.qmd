@@ -1,13 +1,34 @@
 ---
-title: "dalilalara.github.io"
+title: "Dalila Lara"
+image: image.png
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/dalilalara
+  - text: Twitter
+    href: https://twitter.com/dali_nl
+  - text: GitHub
+    href: https://github.com/dalilalara
+  - text: Email
+    href: mailto:dalilalara@ucsb.edu
 ---
 
-Hello!
 
-This is a Quarto website.
+## Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Dalila Lara a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
 
-```{r}
-1 + 1
-```
+### Experience
+
+\- June 2021 - August 2021: Intern Smithsonian Office of Chief Information Officer (OCIO) Data Science Lab
+
+\- March 2021 - June 2021: Data Science Intern National Park Services (NPS)
+
+### Education
+
+\- MEDS (Expected June 2023): Master of Environmental Data Science (UC Santa Barbara)
+
+\- BA (2022): Biological Anthropology & Global Studies (UC Santa Barbara)
