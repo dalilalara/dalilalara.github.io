@@ -3,19 +3,52 @@ project:
   output-dir: docs
 
 website:
+  favicon: pics/Dalila_logo.jpeg
   title: "Dalila Lara"
   navbar:
+    title: false
+    logo: pics/Dalila_logo.jpeg
+    log-alt: "Name Dalila with light green background and hand with plant."
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - hello.qmd
-
+      - href: about.qmd
+        text: About
+      - href: CV/Dalila_Lara.pdf
+        text: Resume
+      - href: blogs.qmd
+        text: My Blogs
+      - href: blogs_resume.qmd
+        text: Experience
+    right:
+         - icon: linkedin
+           href: https://www.linkedin.com/in/dalilalara
+         - icon: twitter
+           href: https://twitter.com/dali_nl
+         - icon: github
+           href: https://github.com/dalilalara
+  page-footer:
+    background: light
+    left: 
+         - "Copyright 2022, Dalila Lara"
+    right:
+         - icon: linkedin
+           href: https://www.linkedin.com/in/dalilalara
+         - icon: twitter
+           href: https://twitter.com/dali_nl
+         - icon: github
+           href: https://github.com/dalilalara
+readermode: true
+        
 format:
   html:
-    theme: lux
+    page-layout: full
+    theme: 
+        - mystyles.scss
+    mainfont: Nunito Sans
+    #previous theme lux
     css: styles.css
     toc: true
-
+    
 editor: visual
 

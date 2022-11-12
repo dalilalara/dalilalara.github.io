@@ -4,30 +4,33 @@ image: image.png
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 15em
+  image-width: 18em
   links: 
-  - text: LinkedIn
+  - icon: linkedin
+    text: LinkedIn
     href: https://www.linkedin.com/in/dalilalara
-  - text: Twitter
+  - icon: twitter
+    text: Twitter
     href: https://twitter.com/dali_nl
-  - text: GitHub
+  - icon: github
+    text: GitHub
     href: https://github.com/dalilalara
-  - text: Email
+  - icon: envelope
+    text: Email
     href: mailto:dalilalara@ucsb.edu
 ---
 
+<h2>Hello I'm Dalila \[Da-lee-la\]!</h2>
 
-## Hello!
+Currently I am a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
 
-I'm Dalila Lara a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
-
-### Experience
+<h3>Experience</h3>
 
 \- June 2021 - August 2021: Intern Smithsonian Office of Chief Information Officer (OCIO) Data Science Lab
 
 \- March 2021 - June 2021: Data Science Intern National Park Services (NPS)
 
-### Education
+<h3>Education</h3>
 
 \- MEDS (Expected June 2023): Master of Environmental Data Science (UC Santa Barbara)
 

@@ -1,0 +1,10 @@
+---
+title: "UCSB University Center (UCEN) HUB"
+description: "Campus Leadership"
+image: ucen.png
+categories: \[Campus Leadership\]\[Community Involvement\]
+---
+
+\<img src="hub_logo.jpeg"/\>
+
+<p>🚧 Under Construction 🚧</p>

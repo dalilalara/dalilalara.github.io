@@ -5,7 +5,7 @@ editor: visual
 
 ## Hello!
 
-I'm Dalila Lara a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
+<p>I'm Dalila Lara a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.</p>
 
 ### Experience
 
