@@ -1,0 +1,54 @@
+/*--scss:defaults--*/
+
+// fonts 
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+// single line 
+
+// Colors 
+$light-green2: #467899;
+$light-green: #f2f5f7;
+$grey: #dbd3d3;
+$blue_n: #53628c;
+$lblue: #6c769e;
+$lgrey: #353738;
+$white: #f2f6f7;
+$y: #c4c4ad;
+$seafoam: #457373;
+$viridian: #739086;
+$foam: #A4BDBE;
+$rosy: #D5B9B1;
+$concrete: #D8D8D6;
+$lpink: #FEF2F2;
+$pink: #E4C2C1;
+
+//Base Document Colors
+$navbar-bg: $foam;
+
+$body-bg: $white;
+
+
+// quarto preview 
+
+h1, h2, h3 {
+  letter-spacing: 5 px;
+  font-weight: 700;
+  color: $seafoam;
+}
+
+//inspect web page to identify the selector class 
+.title{
+  color:$viridian;
+}
+
+.custom-subtitle {
+  font-size: 22px;
+  font-style: italic;
+  color:$light-green2;
+}
+
+.text{
+  color:$foam;
+}
+
+
