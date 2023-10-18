@@ -4,9 +4,9 @@ title: "Who am I? "
 
 # 
 
-## Hello I am Dalila \[Da-lee-la\]!
+## Hello I am Dalila \[Dah-LEE-lah\]!
 
-I am a first-generation student, & Chicana 🇲🇽🇺🇸. Currently I'm a Master's of Environmental Data Science (MEDS) student at UCSB's Bren School of Environmental Science & Management. Throughout my academic career I have had many opportunities that have allowed me to have many privileged activities that I am thankful for.
+I am a first-generation student, & Chicana 🇲🇽🇺🇸. I'm a Data Scientist with a Master's of Environmental Data Science (MEDS) from the Bren School of Environmental Science & Management at UC Santa Barbara. Throughout my academic and professional career I have had many opportunities that have allowed me to have many privileged activities that I am thankful for.
 
 When I am not studying or working I enjoy going on hikes, exploring, and going on adventures. From big adventures to small adventures with family and friends. Checkout some of my recent adventures below!\
 
@@ -33,6 +33,7 @@ When I am not studying or working I enjoy going on hikes, exploring, and going o
 </html>
 -->
 ```
+
 ```{=html}
 
 <head>
@@ -46,38 +47,40 @@ When I am not studying or working I enjoy going on hikes, exploring, and going o
   <div class="grid">
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2338.jpg">
-      <div class="content fade">Yucatan, Mexico Cenote</div>
+      <div class="content fade">Cenote <br> Yucatan, Mexico </div>
     </div>
     <div class="img-wrapper">
       <img class="zoom blur" src="pics/IMG_2333.jpg">
-      <div class="content fade">Making Adventures Possible For All Students (MAPAS) x Promise Scholars Camping Trip </div>
+      <div class="content fade">Making Adventures Possible For All Students (MAPAS) <br> x <br> Promise Scholars Camping Trip </div>
     </div>
     <div class="img-wrapper">
-      <img class="blur" src="pics/IMG_2329.jpg">
-      <div class="content slide-left">Florence, Italy Duomo</div>
+      <img class="blur" src="pics/IMG_2340.jpg">
+      <div class="content slide-left">Rufous Motmot <br> Pipeline Road, Panama</div>
     </div>
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2331.png">
       <div class="content slide-right">Santa Barbara, CA</div>
     </div>
     <div class="img-wrapper">
-      <img class="blur" src="pics/IMG_2332.jpg">
-      <div class="content slide-up">UCSB Storke Tower</div>
+      <img class="blur" src="pics/IMG_2329.jpg">
+      <div class="content slide-up">Duomo <br> Florence, Italy</div>
     </div>
     <div class="img-wrapper">
-      <img class="blur" src="pics/IMG_2326.jpg">
-      <div class="content slide-down">Bologna, Italy</div>
+      <img class="blur" src="pics/IMG_2339.jpg">
+      <div class="content slide-down">Capuchin Monkey <br> Barro Colorado Island, Panama </div>
     </div>
   </div>
 </body>
 </html>
 ```
-<h1>🚧 Under Construction 🚧</h1>
 
 ```{r echo=FALSE}
-library(leaflet)
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-102.5833, lat=22.7709, popup="The birthplace of R")
-m  # Print the map
+
+# <h1>🚧 Under Construction 🚧</h1>
+
+# library(leaflet)
+# m <- leaflet() %>%
+#   addTiles() %>%  # Add default OpenStreetMap map tiles
+#   addMarkers(lng=-102.5833, lat=22.7709, popup="The birthplace of R")
+# m  # Print the map
 ```

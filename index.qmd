@@ -17,21 +17,25 @@ about:
     href: https://github.com/dalilalara
   - icon: envelope
     text: Email
-    href: mailto:dalilalara@ucsb.edu
+    href: mailto:dalilalara@bren.ucsb.edu
 ---
 
 <h2>Hello I'm Dalila \[Da-lee-la\]!</h2>
 
-Currently I am a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
+I am a recent Master of Environmental Data Science graduate from the Bren School of Environmental Science & Management at the University of California Santa Barbara (UCSB). Throughout my academic journey and practical experiences both in the field and beyond, I've come to recognize the paramount significance of data collection and analysis in environmental science. I am driven to continually enhance my data science expertise to equip myself as a proficient environmental researcher. My goal is to channel my acquired data science skills towards promoting environmental sustainability and conservation, while also fostering the inclusion of underrepresented minorities in the realm of environmental science.
 
 <h3>Experience</h3>
 
-\- June 2021 - August 2021: Intern Smithsonian Office of Chief Information Officer (OCIO) Data Science Lab
+\- September 2022 - August 2023: Graduate Fellow UCSB - Smithsonian Scholars Program
 
-\- March 2021 - June 2021: Data Science Intern National Park Services (NPS)
+\- June 2021 - August 2021: Intern, Smithsonian Office of Chief Information Officer (OCIO) Data Science Lab
+
+\- March 2021 - June 2021: Data Science Intern, National Park Services (NPS)
 
 <h3>Education</h3>
 
-\- MEDS (Expected June 2023): Master of Environmental Data Science (UC Santa Barbara)
+\- MEDS (2023): Master of Environmental Data Science (UC Santa Barbara)
 
-\- BA (2022): Biological Anthropology & Global Studies (UC Santa Barbara)
+\- BA (2022): Biological Anthropology (UC Santa Barbara)
+
+\- BA (2022): Global Studies (UC Santa Babrara)

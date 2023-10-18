@@ -14,12 +14,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: CV/Dalila_Lara.pdf
+      - href: resume/dalilalara_resume.pdf
         text: Resume
       - href: blogs.qmd
         text: My Blogs
-      - href: blogs_resume.qmd
-        text: Experience
+      #- href: blogs_resume.qmd
+      #  text: Experience
     right:
          - icon: linkedin
            href: https://www.linkedin.com/in/dalilalara
