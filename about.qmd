@@ -8,7 +8,7 @@ title: "Who am I? "
 
 I am a first-generation student, & Chicana 🇲🇽🇺🇸. I'm a Data Scientist with a Master's of Environmental Data Science (MEDS) from the Bren School of Environmental Science & Management at UC Santa Barbara. Throughout my academic and professional career I have had many opportunities that have allowed me to have many privileged activities that I am thankful for.
 
-When I am not studying or working I enjoy going on hikes, exploring, and going on adventures. From big adventures to small adventures with family and friends. Checkout some of my recent adventures below!\
+When I am not working or relaxing I enjoy going on hikes, exploring, and going on adventures. From big adventures to small adventures with family and friends. Checkout some of my recent adventures below!\
 
 ### Adventures!
 
@@ -51,7 +51,7 @@ When I am not studying or working I enjoy going on hikes, exploring, and going o
     </div>
     <div class="img-wrapper">
       <img class="zoom blur" src="pics/IMG_2333.jpg">
-      <div class="content fade">Making Adventures Possible For All Students (MAPAS) <br> x <br> Promise Scholars Camping Trip </div>
+      <div class="content fade">Making Adventures Possible For All Students (MAPAS) x Promise Scholars Camping Trip </div>
     </div>
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2340.jpg">
