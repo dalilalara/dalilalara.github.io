@@ -1,25 +1,28 @@
 ---
 title: "Blog Posts"
-description: "making blog posts"
+description: "🚧⚙️ Working on future blog posts, stay tuned! 🔧🚧"
 author: 
-  - name: Dalila Lara
-    url: https://dalilalara.github.io
+   - name: Dalila Lara
+    #url: https://dalilalara.github.io
     #orcid: id#
-    affiliate: MEDS
-    affiliation: https://ucsb-meds.github.io
-date: 2022-10-24
-categories: [MEDS, R, Python]
-citation: 
-  url: https://dalilalara.github.io/2022-10-24-blog1/
+    #affiliate: MEDS
+    #affiliation: https://ucsb-meds.github.io
+#date: 2022-10-24
+#categories: [MEDS, R, Python]
+#citation: 
+ # url: https://dalilalara.github.io/2022-10-24-blog1/
   #drop image in the folder and call 
 #image:
   #save will show outline but the post is not present
-draft: true 
-bibliography: references.bib
+# draft: true 
+# bibliography: references.bib
 ---
 
 Making a practice blog post!
 
-⚙️ Working on future blog posts, stay tuned! 🔧
+🚧⚙️ Working on future blog posts, stay tuned! 🔧🚧
 
-Citing blog post from last year [@lara2022]
+```{r, echo=FALSE}
+#Making a practice blog post!
+#Citing blog post from last year [@lara2022]
+```
