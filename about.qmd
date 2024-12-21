@@ -4,37 +4,18 @@ title: "Who am I? "
 
 # 
 
-## Hello I am Dalila \[Dah-LEE-lah\]!
+## Hello I am Dalila <i>\[Dah-LEE-lah\]</i> Lara <i>\[La-ruh\]</i>!
 
-I am a first-generation student, & Chicana 🇲🇽🇺🇸. I'm a Data Scientist with a Master's of Environmental Data Science (MEDS) from the Bren School of Environmental Science & Management at UC Santa Barbara. Throughout my academic and professional career I have had many opportunities that have allowed me to have many privileged activities that I am thankful for.
+I am a first-generation student, & Chicana 🇲🇽🇺🇸. I'm a Data Scientist with a Master's of Environmental Data Science (MEDS) from the Bren School of Environmental Science & Management at UC Santa Barbara. Passionate about using my data background towards data driven insights towards 🌎 sustainable solutions 🍃.
 
-When I am not working or relaxing I enjoy going on hikes, exploring, and going on adventures. From big adventures to small adventures with family and friends. Checkout some of my recent adventures below!\
+Throughout my academic and professional career I have had many opportunities that have allowed me to have many privileged activities that I am thankful for. When I am not working or relaxing I enjoy going on hikes, exploring, and going on adventures 🗺️. From big adventures to small adventures with family and friends.
+
+Checkout some of my recent adventures below! 😄\
 
 ### Adventures!
 
 ```{=html}
-<!-- GRID PHOTOS NOT INTERACTIVE
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Grid Gallery with HTML & CSS</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="image-grid" >
-       <img class="image-grid-col-2 image-grid-row-2" src="pics/IMG_2338.jpg" alt="Yucatan Mexico Cenote"> 
-       <img src="pics/IMG_2333.jpg" alt="Camping MAPAS X Promise Scholars"> 
-       <img src="pics/IMG_2329.jpg" alt="Florence Italy Duomo">
-       <img src="pics/IMG_2331.png" alt="Santa Barbara Beach"> 
-       <img src="pics/IMG_2332.jpg" alt="Storke Tower"> 
-    </div>
-</body>
-</html>
--->
-```
-
-```{=html}
+<html>
 
 <head>
   <meta charset="UTF-8">
@@ -43,16 +24,22 @@ When I am not working or relaxing I enjoy going on hikes, exploring, and going o
   <title>Document</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
+
 <body>
   <div class="grid">
+    
+    
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2338.jpg">
       <div class="content fade">Cenote <br> Yucatan, Mexico </div>
     </div>
     <div class="img-wrapper">
-      <img class="zoom blur" src="pics/IMG_2333.jpg">
-      <div class="content fade">Making Adventures Possible For All Students (MAPAS) x Promise Scholars Camping Trip </div>
+      <img class="blur" src="pics/CO.png">
+      <div class="content slide-up">Great Sand Dunes National Park and Preserve, CO</div>
     </div>
+  
+    
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2340.jpg">
       <div class="content slide-left">Rufous Motmot <br> Pipeline Road, Panama</div>
@@ -61,6 +48,8 @@ When I am not working or relaxing I enjoy going on hikes, exploring, and going o
       <img class="blur" src="pics/IMG_2331.png">
       <div class="content slide-right">Santa Barbara, CA</div>
     </div>
+    
+    
     <div class="img-wrapper">
       <img class="blur" src="pics/IMG_2329.jpg">
       <div class="content slide-up">Duomo <br> Florence, Italy</div>
@@ -69,13 +58,25 @@ When I am not working or relaxing I enjoy going on hikes, exploring, and going o
       <img class="blur" src="pics/IMG_2339.jpg">
       <div class="content slide-down">Capuchin Monkey <br> Barro Colorado Island, Panama </div>
     </div>
+    
+    
+    <div class="img-wrapper">
+      <img class="zoom blur" src="pics/IMG_2333.jpg">
+      <div class="content fade"> UCSB Making Adventures Possible For All Students (MAPAS) x Promise Scholars Camping Trip </div>
+    </div>
+    <div class="img-wrapper">
+      <img class="blur" src="pics/HA.png">
+      <div class="content slide-down">O‘ahu, HA</div>
+    </div>
+    
+    
   </div>
 </body>
+
 </html>
 ```
 
 ```{r echo=FALSE}
-
 # <h1>🚧 Under Construction 🚧</h1>
 
 # library(leaflet)

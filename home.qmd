@@ -1,20 +1,22 @@
 ---
 title: "Home"
-editor: visual
 ---
 
-## Hello!
+<h2> Hello I am Dalila *\[Dah-LEE-lah\]* Lara *\[La-ruh\]*! </h2>
 
-<p>I'm Dalila Lara a student in the Master's of Environmental Data Science (MEDS) program at the Bren School of Environmental Science & Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.</p>
+<p>
+I am passionate about leveraging my data science background to generate insights that promote environmental sustainability and conservation.  I hold a Master of Environmental Data Science from the Bren School of Environmental Science & Management at the University of California, Santa Barbara (UCSB). Throughout my academic journey and practical experiences both in the field and beyond, I've come to recognize the paramount significance of data collection and analysis in environmental science. I am driven to continually enhance my data science expertise to equip myself as a proficient environmental researcher. My goal is to apply my skills to drive sustainability and conservation, while fostering the inclusion of underrepresented minorities in the field of environmental science.
+<right>
+</p>
 
-### Experience
+**Experience**\
+- Post-Graduate Intern, NREL (12/23 – 12/24)\
+- Graduate Fellow, UCSB - Smithsonian Scholars Program (9/22 - 8/23)\
+- Data Science Intern, Smithsonian OCIO Data Science Lab (6/21 - 8/21)\
+- Data Science Intern, National Park Services (3/21 - 6/21)
 
-\- June 2021 - August 2021: Intern Smithsonian Office of Chief Information Officer (OCIO) Data Science Lab
-
-\- March 2021 - June 2021: Data Science Intern National Park Services (NPS)
-
-### Education
-
-\- MEDS (Expected June 2023): Master of Environmental Data Science (UC Santa Barbara)
-
-\- BA (2022): Biological Anthropology & Global Studies (UC Santa Barbara)
+<p> **Education** \
+- Master of Environmental Data Science (MEDS), UCSB (2023)\
+- Bachelor of Arts in Biological Anthropology, UCSB (2022)\
+- Bachelor of Arts in Global Studies, UCSB (2022)*\
+*</p>
