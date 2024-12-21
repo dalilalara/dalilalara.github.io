@@ -14,7 +14,7 @@ Throughout my academic and professional career I have had many opportunities tha
 
 Checkout some of my recent adventures below! 😄\
 
-### Adventures!
+## Adventures!
 
 ```{=html}
 <html>

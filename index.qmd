@@ -22,13 +22,11 @@ styles:
   - href: "mycss.scss"
 ---
 
-<h2>Hello I am Dalila Lara!</h2>
+## Hello I am Dalila Lara!
 
 I am passionate about leveraging my data science background to generate insights that promote environmental sustainability and conservation.  I hold a Master of Environmental Data Science from the Bren School of Environmental Science & Management at the University of California, Santa Barbara (UCSB). 
 
 Throughout my academic journey and practical experiences both in the field and beyond, I've come to recognize the paramount significance of data collection and analysis in environmental science. I am driven to continually enhance my data science expertise to equip myself as a proficient environmental researcher. My goal is to apply my skills to drive sustainability and conservation, while fostering the inclusion of underrepresented minorities in the field of environmental science.
-
-<p>
 
 **Experience**\
 - Post-Graduate Intern, NREL (12/23 – 12/24)\
@@ -36,11 +34,12 @@ Throughout my academic journey and practical experiences both in the field and b
 - Data Science Intern, Smithsonian OCIO Data Science Lab (6/21 - 8/21)\
 - Data Science Intern, National Park Services (3/21 - 6/21)
 
-<p>**Education**\
+\
+**Education**\
 - Master of Environmental Data Science (MEDS), UCSB (2023)\
 - Bachelor of Arts in Biological Anthropology, UCSB (2022)\
 - Bachelor of Arts in Global Studies, UCSB (2022)*\
-*</p>
+*
 
 ```{r, eval=FALSE, include=FALSE}
 # Post Graduate Intern
